@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCH_ReportViewer", "MVCH_ReportViewer.csproj", "{E3DEFCA6-8B8C-4B1C-A4E0-1F640971AF23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3DEFCA6-8B8C-4B1C-A4E0-1F640971AF23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3DEFCA6-8B8C-4B1C-A4E0-1F640971AF23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3DEFCA6-8B8C-4B1C-A4E0-1F640971AF23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3DEFCA6-8B8C-4B1C-A4E0-1F640971AF23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C045596E-9BBC-439D-B14B-147D757E190D}
+	EndGlobalSection
+EndGlobal
